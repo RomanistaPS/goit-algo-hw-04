@@ -59,5 +59,5 @@ def file_generator(path):
 
 
 if __name__ == '__main__':
-    parent_folder_path = Path("file_tree")
+    parent_folder_path = Path('file_tree')
     file_generator(parent_folder_path)
